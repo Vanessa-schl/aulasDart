@@ -13,3 +13,12 @@
 
 //06- criar um programa que solicite o valor do salario bruto de um funionario e em seguida apresente o valor
 //do desconto do inss(considerando o percentual de 11%) e o valor salario liquido(salario bruto menos o desconto do inss)
+
+//07 crie um programa que solicite um numero ao usuarios e em seguida apresente o resultado das seguintes
+// comparações:
+// a - o numero informado é maior ou igual a 15?
+// b - o numero informado é menor do que 7?
+// c- o numero informado é diferente de 50?
+// d- o numero informado é maior que 2?
+// e- o numero informado é menor ou igual a 9?
+// f- o numero informado é igual a 22?
